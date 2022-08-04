@@ -1,0 +1,12 @@
+item { 
+	name:'Ok'
+	id:1
+}
+item { 
+	name:'Nice'
+	id:2
+}
+item { 
+	name:'Love'
+	id:3
+}
